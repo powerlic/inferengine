@@ -1,0 +1,6 @@
+{
+    "model_path":"/home/chengli12/git/mmdetection/work_dirs/fasterrcnn",
+    "model_type": "FasterRcnn",
+    "device_id": 1,
+    "video_detect_every_n": 1
+}

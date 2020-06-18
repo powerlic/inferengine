@@ -1,0 +1,6 @@
+{
+    "model_path":"/home/licheng/git/mmdetection/work_dirs/maskrcnn",
+    "model_type": "MaskRcnn",
+    "device_id": 0,
+    "video_detect_every_n": 5
+}

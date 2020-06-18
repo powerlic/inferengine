@@ -1,0 +1,6 @@
+{
+    "model_path":"/home/chengli12/git/mmdetection/work_dirs/ssd512_coco/ssd512_coco.pt",
+    "model_type": "SSD",
+    "device_id": 1,
+    "video_detect_every_n": 5
+}

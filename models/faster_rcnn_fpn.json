@@ -1,0 +1,6 @@
+{
+    "model_path":"/home/licheng/git/mmdetection/tools/work_dirs/faster_rcnn_r18_fpn_1x",
+    "model_type": "FasterRcnnFpn",
+    "device_id": 0,
+    "video_detect_every_n": 1
+}

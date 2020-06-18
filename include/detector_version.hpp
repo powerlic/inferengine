@@ -1,0 +1,11 @@
+#ifndef DETECTOR_VERSION_HPP
+#define DETECTOR_VERSION_HPP
+
+#define GIT_BRANCH "BodyParse"
+#define GIT_COMMIT_HASH "c75a8b4"
+#define VERSION_MAJOR "1"
+#define VERSION_MINOR "0"
+#define VERSION_PATCH "0"
+#define BUILD_DATE "20191212"
+
+#endif
